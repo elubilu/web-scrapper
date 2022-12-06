@@ -1,0 +1,27 @@
+{
+  "name": "web-scrapper",
+  "version": "0.0.1",
+  "description": "\"This is a web scrapping tool to collect potential data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elubilu/web-scrapper.git"
+  },
+  "keywords": ["Web Scrapper, Web Srapping Tool", "NodeJS", "Package for Scrapping", "NPM scrapper"],
+  "author": "\"Rasel Ahmed\"",
+  "license": "MIT",
+  "homepage": "http://git@github.com:elubilu/web-scrapper.git#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs.promises": "^0.1.2",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/elubilu/web-scrapper/issues"
+  }
+}
